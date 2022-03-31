@@ -1,0 +1,30 @@
+{
+  "name": "mui-number-filed",
+  "version": "1.0.0",
+  "description": "A small wrapper around MUI's TextField component that fixes weird behavior while typing decimal separator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miloshdev/mui-number-filed.git"
+  },
+  "keywords": [
+    "mui",
+    "numberfield"
+  ],
+  "author": "Milos Stankovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miloshdev/mui-number-filed/issues"
+  },
+  "homepage": "https://github.com/miloshdev/mui-number-filed#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.43",
+    "typescript": "^4.6.3"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}
