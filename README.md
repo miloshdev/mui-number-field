@@ -19,8 +19,12 @@ The library fixes the problem by preventing `onChange` events to be fired in cas
 
 ## Installation
 
-TODO
+To install the required dependencies run:
+```
+npm install react @mui/material @emotion/react @emotion/styled
+```
 
-## TODOs:
-1. test with js app
-2. check react 18 apps 
+To install the library run:
+```
+npm install mui-number-field
+```
