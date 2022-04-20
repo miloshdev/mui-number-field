@@ -28,3 +28,8 @@ To install the library run:
 ```
 npm install mui-number-field
 ```
+
+NOTE: For react 17, install version 1.0.0 by running:
+```
+npm install mui-number-field@1.0.0
+```
