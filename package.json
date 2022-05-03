@@ -1,5 +1,5 @@
 {
-  "name": "mui-number-filed",
+  "name": "mui-number-field",
   "version": "1.0.0",
   "description": "A small wrapper around MUI's TextField component that fixes weird behavior while typing decimal separator.",
   "main": "build/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miloshdev/mui-number-filed.git"
+    "url": "git+https://github.com/miloshdev/mui-number-field.git"
   },
   "keywords": [
     "react",
@@ -19,9 +19,9 @@
   "author": "Milos Stankovic",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/miloshdev/mui-number-filed/issues"
+    "url": "https://github.com/miloshdev/mui-number-field/issues"
   },
-  "homepage": "https://github.com/miloshdev/mui-number-filed#readme",
+  "homepage": "https://github.com/miloshdev/mui-number-field#readme",
   "devDependencies": {
     "@types/react": "^17.0.43",
     "typescript": "^4.6.3"
